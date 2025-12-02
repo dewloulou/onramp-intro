@@ -1,0 +1,34 @@
+# An ordered shopping list of my favorite foods
+<ol>
+<li>Tacos</li>
+<li>Meat pies</li>
+<li>Pastries</li>
+<li>Pizza</li>
+</ol>
+
+#An ordered list of to-dos I need to do today
+<ol>
+<li>Finish this assignment for class</li>
+<li>Look ahead at my next assignments</li>
+<li>Go to sleep</li>
+</ol>
+
+#An unordered list of places I would like to visit someday
+<ul>
+<li>France</li>
+<li>Austin, TX</li>
+<li>Vancouver, BC</li>
+<li>Berlin</li>
+<li>Sweden</li>
+<li>Accra, Ghana</li>
+<li>Soweto, South Africa</li>
+</ul>
+
+#An unordered list of my all-time favorite video games or movies
+<ul>
+<li>Beau Is Afraid</li>
+<li>American Psycho</>
+<li>Meet the Robinsons</li>
+<li>Pride and Prejudice</li>
+<li>The Banger Sisters</li>
+</ul>
