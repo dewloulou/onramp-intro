@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,11 +13,12 @@
   <p>
         Ever since I was a kid I have always loved watching as many movies as I can! 
         Below you'll find a list of films I watched last weekend lest you should chicken out 
-        on the double feature for fear that there might be too few hours in a day. Pish posh!
-        It may shock you these pairing. However for the time being I choose to extrapolate 
-        from it only a childish playfulness with the often unbelievable, and occasionally
-        too perfect medium that is filmmaking. Positing that I am somehow simply drawn 
-        to juxtapositions for reasons perhaps better answered to by my psychoanalyst.
+        on the double feature for fear that there might be too few hours in a day. 
+        It may shock you these pairings. However for the time being I am choosing to extrapolate 
+        from it only a childish playfulness combined with the often unbelievably, and occasionally
+        too perfect summation that is screenwriting. Positing that I am somehow simply drawn 
+        to juxtapositions for reasons perhaps better answered to by my psychoanalyst. This is for you, 
+        however! Indulge with me. Barely lift your head off of the sofa, or your body. 
     </p>
     
     <ul>
@@ -47,8 +48,25 @@
         space that doesn't take itself too seriously. Altogether it was a 
         great weekend!
     </p>
+    <p>
+        I occasionally take suggestions for genres, or specific auteurs to try. 9/10 
+        times I will ultimately choose Pedro Almodóvar plus someone over anyything.
+    </p>
+    <p>
+ <fieldset>
+            <legend>What Should I Watch Next?</legend>
+ <label for="name">Name:</label>
+  <input type="text" id="name" name="name">
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email">
+
+  <textarea>Some initial content</textarea>
+
+
+</fieldset>
+    </p>
 <p>
   Follow along with my double features on Substack as I indulge in a gluttony of films. <a href="https://substack.com/@hilow/posts">Hi Low</a>
 </body>
 </html>
-
