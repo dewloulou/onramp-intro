@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Double Feature Cohesion and The Classics of Cinema</title>
-     <!-- Link to my CSS stylesheet -->
-    <link rel="CSS Style Sheet" href="CSS Style Sheet">
 </head>
 <body>
 
     <h1>Every Weekend Another Film Pairing</h1>
+     <!-- Link to my CSS stylesheet -->
+    <link rel="CSS Style Sheet" href="CSS Style Sheet">
     <p>
 <img src="https://images.everydayhealth.com/images/emotional-health/why-you-like-rewatching-tv-shows-1440x810.jpg?sfvrsn=f78ed51a_5" alt="Two women one with locs, and the other with braids are watching Friends sitting on a couch. On the tv screen in front of them we can see Rachel, and Monica are on screen.">
   <p>
