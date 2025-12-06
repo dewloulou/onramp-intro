@@ -34,3 +34,39 @@ a.button:hover {
 .styled-img:hover {
   filter: grayscale(0%);
 }
+
+/* Styling for the Hi Low button */
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #FF6B35;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #E55A2B;
+}
+
+/* Styling for the About Me link */
+a[href="Assignment: About Me"] {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0066CC;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a[href="Assignment: About Me"]:hover {
+  text-decoration: underline;
+  color: #004999;
+}
+
+/* If you want to style the paragraph container */
+p {
+  text-align: center;
+  margin: 20px 0;
+}
