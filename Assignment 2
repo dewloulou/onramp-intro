@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Double Feature Cohesion and The Classics of Cinema</title>
+     <!-- Link to my CSS stylesheet -->
+    <link rel="CSS Style Sheet" href="CSS Style Sheet">
 </head>
 <body>
 

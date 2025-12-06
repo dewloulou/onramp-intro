@@ -1,0 +1,10 @@
+/* Style the page title (assuming it's an <h1>) */
+h1 {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+
+/* Make paragraph text double-spaced */
+p {
+    line-height: 2; /* Double spacing */
+}
