@@ -1,4 +1,8 @@
 /* Style the page title (assuming it's an <h1>) */
+* {
+  margin: 10px
+  padding: 10px
+}
 h1 {
     font-family: Arial, sans-serif;
     font-style: italic;
@@ -9,7 +13,7 @@ p {
     line-height: 2; /* Double spacing */
 }
 a.button {
-    background-color: #4CAF50;
+    background-color: #6495ED;
     color: white;
     padding: 10px 20px;
     border-radius: 6px;
@@ -18,12 +22,13 @@ a.button {
 }
 
 a.button:hover {
-    background-color: #45a049;
+    background-color: #6459ED;
 }
 
 .styled-img {
   filter: grayscale(100%);
   transition: filter 0.3s;
+  margin: auto
 }
 
 .styled-img:hover {
