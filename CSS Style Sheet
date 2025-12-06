@@ -8,3 +8,15 @@ h1 {
 p {
     line-height: 2; /* Double spacing */
 }
+a.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.button:hover {
+    background-color: #45a049;
+}
