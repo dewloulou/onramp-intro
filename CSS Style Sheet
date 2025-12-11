@@ -34,9 +34,6 @@ div.container5 {
   margin: auto;
 }
 
-h3 {
-  justify-content:  ;
-}
 
 .styled-img:hover {
   filter: grayscale(0%);
@@ -83,6 +80,3 @@ a[href="Assignment: About Me"]:hover {
 }
 
 
-p {
-  text-align: 
-}
