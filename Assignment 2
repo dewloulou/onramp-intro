@@ -10,6 +10,11 @@
 
 <body>
 
+  <div class="flex-container"</div>
+  <div class= "button">2024 In 104 Films</div>
+  <div class= "button">Contact</div>
+  </div>
+  
   <h1>Every Weekend Another Film Pairing</h1>
   <!-- Link to my CSS stylesheet -->
   <link rel="CSS Style Sheet" href="CSS Style Sheet">
