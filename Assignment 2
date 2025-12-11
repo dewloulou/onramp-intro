@@ -80,7 +80,7 @@
 
     <label for="message">Enter your message:</label><br>
     <textarea id="message" name="message" rows="5" cols="30" placeholder="Type your message here..."></textarea>
-
+    <div class= "button">Submit</div>
   </fieldset>
   </p>
   <p>
