@@ -1,40 +1,45 @@
 h1 {
   text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20em
-
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
 }
 
-
+.h3 {
+  margin: 2px;
+  padding: 2px;
+}
 
 a.button {
-    background-color: #6495ED;
-    color: white;
-    padding: 10px;
-    border-radius: 4px;
-    display: inline-block;
+  background-color: #6495ed;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
 }
 
 a.button:hover {
-    background-color: #6459ED;
+  background-color: #6459ed;
 }
 
 div.container5 {
   height: 10em;
   display: flex;
-  align-items: left
+  align-items: left;
 }
 
 .styled-img {
   filter: grayscale(100%);
   transition: filter 0.3s;
-  margin: auto
+  margin: auto;
+}
+
+h3 {
+  justify-content:  ;
 }
 
 .styled-img:hover {
   filter: grayscale(0%);
- 
 }
 
 div {
@@ -44,7 +49,7 @@ div {
 .button {
   display: inline-block;
   padding: 12px 24px;
-  background-color: #FF6B35;
+  background-color: #ff6b35;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -52,17 +57,15 @@ div {
   transition: background-color 0.3s ease;
 }
 
-
-
 .button:hover {
-  background-color: #E55A2B;
+  background-color: #e55a2b;
 }
 
 /* Styling for the About Me link */
 a[href="Assignment: About Me"] {
-  display: inline-block;
+  display: flex;
   margin-top: 10px;
-  color: #0066CC;
+  color: #0066cc;
   text-decoration: none;
   font-size: 16px;
 }
@@ -73,7 +76,13 @@ a[href="Assignment: About Me"]:hover {
 }
 
 /* The container paragraph style */
+ .Day_Box {
+  display: flex;
+  flex-direction: column; 
+  align-items: center; 
+}
+
+
 p {
-  text-align: center;
-  margin: 20px 0;
+  text-align: 
 }
