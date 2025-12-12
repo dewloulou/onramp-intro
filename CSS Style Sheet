@@ -1,3 +1,8 @@
+.body {
+  background-color: #f0f0f0;
+  color: #222;
+}
+
 h1 {
   text-align: center;
   margin-left: auto;
@@ -34,6 +39,12 @@ div.container5 {
   margin: auto;
 }
 
+.header_img {
+  display: block;
+  margin: 0 auto; /* Centers the image horizontally */
+  width: 200px;
+  border-radius: 50%;
+}
 
 .styled-img:hover {
   filter: grayscale(0%);
@@ -58,7 +69,6 @@ div {
   background-color: #e55a2b;
 }
 
-
 /* Styling for the About Me link */
 a[href="Assignment: About Me"] {
   display: flex;
@@ -74,10 +84,8 @@ a[href="Assignment: About Me"]:hover {
 }
 
 /* The container paragraph style */
- .Day_Box {
+.Day_Box {
   display: flex;
-  flex-direction: column; 
-  align-items: center; 
+  flex-direction: column;
+  align-items: center;
 }
-
-
