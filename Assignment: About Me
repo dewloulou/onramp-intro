@@ -5,10 +5,14 @@
     <title>About Me</title>
 </head>
     <body>
+      
+      
     <!-- Image at the very top, hosted on the web -->
-  <img src="https://www.shutterstock.com/image-photo/happy-confident-young-african-american-260nw-2575711919.jpg" alt="A professional photograph of a black woman with curly black hair. Smiling, and wearing a burnt orange button up">
+  <div class= "header_img">
+      <img src="https://www.shutterstock.com/image-photo/happy-confident-young-african-american-260nw-2575711919.jpg" alt="A professional photograph of a black woman with curly black hair. Smiling, and wearing a burnt orange button up">
+      </div>
 
-  <h1>Bringing back hobbies</h1>
+  <h1>Bringing Back Hobbies</h1>
   <p>My name is Deloris Onwuka. I work for the government, 
     and I want to study to get my phd in economics. I hope to one day be
 focused on technology focused financial products, and capital raising for
@@ -16,7 +20,7 @@ mid-sized corporations in M&A. So it's no surprise that I spend most of my
 free time reading about finance, or statistics. 
 </p>
 <p>
-    Whatever is left of my day is spent watching movies. These days I am
+    Whatever is left of my day however is most often spent watching movies. These days I am
     theorizing double features endlessly. And it started with a book by Mel
     Brooks, the filmmaker. Now I didn't watch a film by Mel Brooks to quell
     those passing thoughts. I saw a documentary about Albert Brooks! Albert 
@@ -43,3 +47,4 @@ free time reading about finance, or statistics.
 
 </body>
 </html>
+
